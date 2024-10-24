@@ -24,7 +24,12 @@ function HomeScreen() {
 function SettingsScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text></Text>
+      	<Text>
+			The Bee Movie (2007) is an animated comedy film that follows the story of Barry B. Benson, a honeybee who has just graduated from college and is disillusioned by the prospect of spending his entire life working in the hive. 
+			Eager for more adventure, Barry ventures outside the hive and forms a friendship with a human florist named Vanessa. As Barry learns more about the human world, he is shocked to discover that humans exploit bees by stealing their honey. Outraged, he decides to sue the human race, leading to a court battle that ends in favor of the bees. 
+			However, the victory has unintended consequences: without the need to produce honey, the bees stop pollinating plants, which causes flowers and plants to die.
+			Realizing that the world is in danger without bees doing their essential work, Barry and Vanessa work together to revive the plant life by transporting flowers from a parade. In the end, Barry learns to appreciate his role in the hive, and the balance between bees and humans is restored.
+		</Text>
     </View>
   );
 }
